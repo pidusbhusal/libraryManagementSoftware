@@ -3,7 +3,7 @@ import React from "react";
 
 function Navbar() {
   return (
-    <nav className="flex justify-between  absolute w-full bg-white border-b-2 shadow-md ">
+    <nav className="flex justify-between   w-full bg-white border-b-2 shadow-md ">
       <div className="container flex justify-between items-center ">
         <Link href={"/"}>
           <img src="Logo.svg" alt="" />
